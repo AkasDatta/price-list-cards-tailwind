@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Gym A",
+      "featureList": [
+        "Cardio equipment",
+        "Group classes",
+        "Weight training equipment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gym B",
+      "featureList": [
+        "Cardio equipment",
+        "Personal training",
+        "Weight training equipment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gym C",
+      "featureList": [
+        "Cardio equipment",
+        "Swimming pool",
+        "Weight training equipment"
+      ]
+    }
+  ]
+  
